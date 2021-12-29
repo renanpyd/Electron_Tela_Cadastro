@@ -93,7 +93,7 @@
     "tunnel": "^0.0.6",
     "sumchecker": "^3.0.1",
     "sprintf-js": "^1.1.2",
-    "type-fest": "^0.13.1",
+    "type-fest": "^2.8.0",
     "util-deprecate": "^1.0.2",
     "url-parse-lax": "^3.0.0",
     "wrappy": "^1.0.2",
