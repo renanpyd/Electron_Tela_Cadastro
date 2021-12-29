@@ -45,7 +45,7 @@
     "encodeurl": "^1.0.2",
     "es6-error": "^4.1.1",
     "end-of-stream": "^1.4.4",
-    "get-stream": "^4.1.0",
+    "get-stream": "^6.0.1",
     "global-agent": "^3.0.0",
     "got": "^9.6.0",
     "fd-slicer": "^1.1.0",
