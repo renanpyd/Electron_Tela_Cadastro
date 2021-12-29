@@ -79,7 +79,7 @@
     "proto-list": "^1.2.4",
     "pump": "^3.0.0",
     "object-keys": "^1.1.1",
-    "pify": "^3.0.0",
+    "pify": "^5.0.0",
     "p-cancelable": "^1.1.0",
     "readable-stream": "^2.3.7",
     "semver": "^6.3.0",
