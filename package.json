@@ -67,7 +67,7 @@
     "minimist": "^1.2.5",
     "ms": "^2.1.2",
     "mkdirp": "^0.5.5",
-    "normalize-url": "^4.5.1",
+    "normalize-url": "^7.0.3",
     "matcher": "^3.0.0",
     "once": "^1.4.0",
     "keyv": "^3.1.0",
