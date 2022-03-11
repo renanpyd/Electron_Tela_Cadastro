@@ -59,7 +59,7 @@
     "jsonfile": "^4.0.0",
     "isarray": "^1.0.0",
     "json-buffer": "^3.0.0",
-    "lru-cache": "^6.0.0",
+    "lru-cache": "^7.4.4",
     "lodash": "^4.17.21",
     "lowercase-keys": "^1.0.1",
     "mimic-response": "^1.0.1",
