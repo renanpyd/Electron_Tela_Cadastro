@@ -80,7 +80,7 @@
     "pump": "^3.0.0",
     "object-keys": "^1.1.1",
     "pify": "^3.0.0",
-    "p-cancelable": "^1.1.0",
+    "p-cancelable": "^4.0.1",
     "readable-stream": "^2.3.7",
     "semver": "^6.3.0",
     "semver-compare": "^1.0.0",
