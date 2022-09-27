@@ -47,7 +47,7 @@
     "end-of-stream": "^1.4.4",
     "get-stream": "^4.1.0",
     "global-agent": "^3.0.0",
-    "got": "^9.6.0",
+    "got": "^12.5.1",
     "fd-slicer": "^1.1.0",
     "fs-extra": "^8.1.0",
     "inherits": "^2.0.4",
