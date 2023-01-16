@@ -85,7 +85,7 @@
     "semver": "^6.3.0",
     "semver-compare": "^1.0.0",
     "safe-buffer": "^5.1.2",
-    "roarr": "^2.15.4",
+    "roarr": "^7.14.2",
     "responselike": "^1.0.2",
     "serialize-error": "^7.0.1",
     "to-readable-stream": "^1.0.0",
