@@ -18,7 +18,7 @@
   "author": "Renan de Lima Andrade",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^16.0.5"
+    "electron": "^22.0.3"
   },
   "bugs": {
     "url": "https://github.com/renanpyd/electron_telaCadastro/issues"
